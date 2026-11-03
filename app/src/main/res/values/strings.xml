@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="next">NEXT</string>
+    <string name="score_n0">SCORE\n0</string>
+</resources>
